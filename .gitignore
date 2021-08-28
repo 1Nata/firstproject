@@ -1,0 +1,10 @@
+/target
+
+### Ignored files ##
+.idea
+*.iws
+*.imp
+*.ipr
+*.iml
+*.log
+
